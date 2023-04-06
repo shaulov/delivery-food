@@ -382,7 +382,7 @@ function init() {
 
     checkAuth();
 
-    new Swiper('.swiper-container', {
+    new Swiper('.swiper', {
         loop: true,
         autoplay: {
             delay: 3000,
